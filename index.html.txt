@@ -1,5 +1,10 @@
 <html>
 <head><title>Godwin God</title></head>
+	<style>
+		body {
+			background-color: red;	
+		}
+	</style>
 <body>
 	<marquee>Ren was here</marquee>
 </body>
